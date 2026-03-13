@@ -1,4 +1,4 @@
-Movie Seat Booking - En webbapp där användaren kan välja biosalongens säten och se totalpriset baserat på vald film. 
+Movie Seat Booking - En webbapp där användaren kan välja biosalongens platser och se totalpriset baserat på vald film. 
 Filmerna hämtas från ett REST API via JSON Server.
 
 
